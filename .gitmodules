@@ -1,0 +1,3 @@
+[submodule "Emu86"]
+	path = Emu86
+	url = https://github.com/gcallah/Emu86.git
